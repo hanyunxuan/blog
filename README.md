@@ -1,18 +1,18 @@
 # 韩昀轩的博客
 记录监督学习
 
-麻烦点star，不要fork
+欢迎点star
 
-> 或许现在很多企业和团队尚未重视前端工程，或许前端工程在很多人眼里还只是“构建工具”的代名词，又或许未来前端领域的变革使得一切工程问题从根本上得到解决。不管怎样，我只是希望当下能认真的记录自己在前端工程领域的所见所想，与正在经历前端工程化改进，并被此过程困扰的同学交流心得。
+> 在这里，我会将自己学到的技术分享给大家
 
-[欢迎一起探讨各自在前端开发中遇到的工程问题](https://github.com/fouber/blog/issues/8)
+[欢迎在这里进行讨论和吐槽](https://github.com/fouber/blog/issues/8)
 
 目录
 
-* 系列专题
-    * [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
-* 工程杂谈
-    * [浅谈前端集成解决方案](https://github.com/fouber/blog/issues/1)
+* Arcgis
+    * [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
+* Python
+    * [浅谈前端集成解决方案](https://github.com/fouber/blog/issues/1)
     * [前端工程与性能优化](https://github.com/fouber/blog/issues/3)
     * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
     * [前端开发体与模块化框架](https://github.com/fouber/blog/issues/4)
@@ -26,4 +26,4 @@
     * [静态资源缓存控制演示项目](https://github.com/fouber/static-resource-digest-project)
 
 
-微博 [@前端农民工](http://www.weibo.com/fouber)
+知乎 [@Trux](https://www.zhihu.com/people/baiye_mail/activities)
