@@ -1,7 +1,8 @@
 # 韩昀轩的博客
+
 记录监督学习
 
-如果觉得好不错的话，欢迎右上角重击star
+如果觉得对你有帮助的话，欢迎右上角重击star
 
 > 在这里，我会将自己学到的技术分享给大家
 
@@ -10,7 +11,7 @@
 目录
 
 * Python
-    * [Python及Pycharm下载及安装](https://github.com/fouber/blog/issues/1)
+    * [Python及Pycharm下载及安装](https://github.com/fouber/blog/issues/1)
     * [Python使用MySQL数据库](https://github.com/fouber/blog/issues/3)
 * Matlab
     * [Matlab下载及安装](https://github.com/fouber/blog/issues/1)
