@@ -28,7 +28,8 @@
     * [Arcgis三维地图展示](https://github.com/fouber/blog/issues/10)
 * 其他
     * [Stack Overflow入门](https://github.com/fouber/blog/issues/10)
-    * [Arcgis三维地图展示](https://github.com/fouber/blog/issues/10)
+    * [Github入门使用](https://github.com/fouber/blog/issues/10)
+    * [Github Issues入门使用](https://github.com/fouber/blog/issues/10)
 
 * 示例项目
     * [网络生成示例](https://github.com/fouber/static-resource-management-system-demo)
