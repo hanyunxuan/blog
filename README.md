@@ -11,15 +11,14 @@
 目录
 
 * Python
-    * [Python及Pycharm下载及安装](https://github.com/fouber/blog/issues/1)
-    
-    * [Python使用MySQL数据库](https://github.com/fouber/blog/issues/3)
+    * [Python及Pycharm下载及安装](https://github.com/fouber/blog/issues/1)  
+    * [Python使用MySQL数据库](https://github.com/fouber/blog/issues/2)
 * Matlab
-    * [Matlab下载及安装](https://github.com/fouber/blog/issues/1)
-    * [Matlab调用Cplex建模求解](https://github.com/fouber/blog/issues/5)
+    * [Matlab下载及安装](https://github.com/fouber/blog/issues/3)
+    * [Matlab调用Cplex建模求解](https://github.com/fouber/blog/issues/4)
 * Java
-    * [Java及Eclipse下载及安装](https://github.com/fouber/blog/issues/1)
-    * [Java调用Matlab包](https://github.com/fouber/blog/issues/3)
+    * [Java及Eclipse下载及安装](https://github.com/fouber/blog/issues/5)
+    * [Java调用Matlab包](https://github.com/fouber/blog/issues/6)
 * 算法
     * [Dijkstra算法](https://github.com/fouber/blog/issues/1)
     * [K短路径算法](https://github.com/fouber/blog/issues/3)
