@@ -32,6 +32,7 @@
     * [Github入门使用](https://github.com/fouber/blog/issues/1)
     * [Github Issues入门使用](https://github.com/fouber/blog/issues/3)
     * [Stack Overflow入门](https://github.com/fouber/blog/issues/2)
+    * [局域网搭建](https://github.com/fouber/blog/issues/2)
 
 * 示例项目
     * [网络生成示例](https://github.com/fouber/static-resource-management-system-demo)
