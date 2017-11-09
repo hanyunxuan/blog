@@ -34,7 +34,7 @@
     * [Stack Overflow入门](https://github.com/fouber/blog/issues/2)
 
 * 示例项目
-    * [网络生成示例](https://github.com/fouber/static-resource-management-system-demo)
-    * [交通分配示例](https://github.com/fouber/fis-php-md.js)
+    * [网络生成示例](https://github.com/fouber/static-resource-management-system-demo)
+    * [交通分配示例](https://github.com/fouber/fis-php-md.js)
 
 知乎 [@Trux](https://www.zhihu.com/people/baiye_mail/activities)
