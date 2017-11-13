@@ -1,4 +1,4 @@
-# :sparkles: :heart:韩昀轩的博客 :heart: :sparkles:
+# :sparkles: :heart: 韩昀轩的博客 :heart: :sparkles:
 
 记录监督学习
 
