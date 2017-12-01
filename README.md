@@ -14,6 +14,7 @@
     * [Python读取文件夹下文件名](https://github.com/hanyunxuan/PythonScripts/blob/master/ReadFile.py) 
     * [Python读取MySQL](https://github.com/hanyunxuan/PythonScripts/blob/master/read_MySQL.py)
     * [Python写入MySQL](https://github.com/hanyunxuan/PythonScripts/blob/master/write_MySQL.py)
+    * [Python度分秒和度相互转换](https://github.com/hanyunxuan/PythonScripts/blob/master/ConvertCoordinate.py)
 * Java
     * [Java调用Matlab包]
 * 算法
