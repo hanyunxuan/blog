@@ -11,7 +11,7 @@
 目录
 
 * Python
-    * [Python读取文件夹下文件名](https://github.com/hanyunxuan/blog/issues/2)
+    * [Python读取文件夹下文件名](https://github.com/hanyunxuan/PythonScripts/blob/master/ReadFile.py)
     * [Python使用MySQL数据库](https://github.com/fouber/blog/issues/2)
     * [Python网页转保存为pdf](https://github.com/fouber/blog/issues/2)
 * Java
