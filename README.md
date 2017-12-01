@@ -27,7 +27,7 @@
     * [Github入门使用]
     * [Github Issues入门使用]
     * [Stack Overflow入门]
-    * [局域网搭建](https://github.com/fouber/blog/issues/2)
+    * [局域网搭建]
 
 * 示例项目
     * [网络生成示例]
