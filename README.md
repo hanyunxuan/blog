@@ -28,8 +28,8 @@ Directory
 * Other
     * [Github入门使用]
     * [Github Issues入门使用]
-    * [Stack Overflow入门]
-    * [Share files in win7]
+    * [Stack Overflow入门] 
+    * [Share folder in windows 7](https://github.com/hanyunxuan/blog/issues/2)
 
 * Example
     * [网络生成示例]
