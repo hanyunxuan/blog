@@ -11,11 +11,11 @@
 Directory
 
 * Python
-    * [Python read file from the folder](https://github.com/hanyunxuan/PythonScripts/blob/master/ReadFile.py) 
+    * [Python read file from the folder](https://github.com/hanyunxuan/PythonScripts/blob/master/read_file.py.py) 
     * [Python read MySQL](https://github.com/hanyunxuan/PythonScripts/blob/master/read_MySQL.py)
     * [Python write MySQL](https://github.com/hanyunxuan/PythonScripts/blob/master/write_MySQL.py)
-    * [Python convert degree and degree minute second](https://github.com/hanyunxuan/PythonScripts/blob/master/ConvertCoordinate.py)
-    * [Python judge point inside polygon](https://github.com/hanyunxuan/PythonScripts/blob/master/PointInsidePolygon.py)
+    * [Python convert degree and degree minute second](https://github.com/hanyunxuan/PythonScripts/blob/master/convert_coordinate.py)
+    * [Python judge point inside polygon](https://github.com/hanyunxuan/PythonScripts/blob/master/point_polygon.py)
     * [Python matplotlib](https://github.com/hanyunxuan/PythonScripts/blob/master/plot.py)
 * Java
     * [Java调用Matlab包]
