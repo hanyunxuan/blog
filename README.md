@@ -18,6 +18,8 @@ Directory
     * [Python judge point inside polygon](https://github.com/hanyunxuan/PythonScripts/blob/master/point_polygon.py)
     * [Python matplotlib](https://github.com/hanyunxuan/PythonScripts/blob/master/plot.py)
     * [Python optimization](https://github.com/hanyunxuan/PythonScripts/blob/master/optimization.py)
+    * [Python calculating time](https://github.com/hanyunxuan/PythonScripts/blob/master/timer.py)
+    * [Python web crawler](https://github.com/hanyunxuan/PythonScripts/blob/master/spider.py)
 * Java
     * [Java调用Matlab包]
 * Algorithm
