@@ -22,6 +22,7 @@ Directory
     * [Python web crawler](https://github.com/hanyunxuan/PythonScripts/blob/master/spider.py)
 * Java
     * [Java调用Matlab包]
+    * [Java how to use ArcGIS Runtime SDK for Java's local server](https://github.com/hanyunxuan/blog/issues/3)
 * Algorithm
     * [Dijkstra algorithm]
     * [K短路径算法]
