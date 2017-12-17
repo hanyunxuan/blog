@@ -31,9 +31,6 @@ Directory
     * [Arcgis下载及安装]
     * [Arcgis三维地图展示]
 * Other
-    * [Github入门使用]
-    * [Github Issues入门使用]
-    * [Stack Overflow入门] 
     * [Share folder in windows 7](https://github.com/hanyunxuan/blog/issues/2)
 
 * Example
