@@ -40,4 +40,4 @@ Directory
     * [网络生成示例]
     * [交通分配示例]
 
-:telephone: 知乎 [@Trux](https://www.zhihu.com/people/baiye_mail/activities)
+:email: Mail : hanyunxuan2008@qq.com
