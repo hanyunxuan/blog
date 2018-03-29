@@ -20,6 +20,8 @@ Directory
     * [Python optimization](https://github.com/hanyunxuan/PythonScripts/blob/master/optimization.py)
     * [Python calculating time](https://github.com/hanyunxuan/PythonScripts/blob/master/timer.py)
     * [Python web crawler](https://github.com/hanyunxuan/PythonScripts/blob/master/spider.py)
+    * [Python caculate distance](https://github.com/hanyunxuan/PythonScripts/blob/master/calculate_distance.py)
+    * [ Python grey model(GM(1,1))](https://github.com/hanyunxuan/PythonScripts/blob/master/gray_forecast.py)
 * Java
     * [Java调用Matlab包]
     * [Java how to use ArcGIS Runtime SDK for Java's local server](https://github.com/hanyunxuan/blog/issues/3)
