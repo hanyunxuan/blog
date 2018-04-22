@@ -29,6 +29,9 @@ Directory
     * [Dijkstra algorithm]
     * [K短路径算法]
     * [Genetic algorithm]
+    * [NSGA-Ⅲ]
+    * [链路预测]
+    * [Kmeans algorithm]
 * Arcgis
     * [Arcgis下载及安装]
     * [Arcgis三维地图展示]
