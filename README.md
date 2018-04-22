@@ -39,4 +39,4 @@ Directory
     * [网络生成示例]
     * [交通分配示例]
 
-:email: Mail : hanyunxuan2008@qq.com
+:email: Mail : ishanyunxuan@foxmail.com
