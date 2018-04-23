@@ -22,6 +22,8 @@ Directory
     * [Python web crawler](https://github.com/hanyunxuan/PythonScripts/blob/master/spider.py)
     * [Python caculate distance](https://github.com/hanyunxuan/PythonScripts/blob/master/calculate_distance.py)
     * [ Python grey model(GM(1,1))](https://github.com/hanyunxuan/PythonScripts/blob/master/gray_forecast.py)
+    * [Python convert path and individual(genetic algorithm)](https://github.com/hanyunxuan/PythonScripts/blob/master/convert_path_ind.py)
+    * [Python searsh random path ](https://github.com/hanyunxuan/PythonScripts/blob/master/random_searsh_path.py)    
 * Java
     * [Java调用Matlab包]
     * [Java how to use ArcGIS Runtime SDK for Java's local server](https://github.com/hanyunxuan/blog/issues/3)
@@ -29,9 +31,9 @@ Directory
     * [Dijkstra algorithm]
     * [K短路径算法]
     * [Genetic algorithm]
-    * [NSGA-Ⅲ]
-    * [链路预测]
-    * [Kmeans algorithm]
+    * [NSGA-Ⅲ]
+    * [链路预测]
+    * [Kmeans algorithm]
 * Arcgis
     * [Arcgis下载及安装]
     * [Arcgis三维地图展示]
